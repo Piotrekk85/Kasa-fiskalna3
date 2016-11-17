@@ -1,0 +1,6 @@
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\bin\Debug\Cwiczenia7.exe.config
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\obj\Debug\Cwiczenia7.csprojResolveAssemblyReference.cache
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\bin\Debug\Cwiczenia7.exe
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\bin\Debug\Cwiczenia7.pdb
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\obj\Debug\Cwiczenia7.exe
+C:\Algorytmy\Cwiczenia7\Cwiczenia7\obj\Debug\Cwiczenia7.pdb
