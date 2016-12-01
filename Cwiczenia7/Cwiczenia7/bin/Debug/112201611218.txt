@@ -1,0 +1,3 @@
+Paragon
+Nazwa: mleko, Cena jednostkowa: 2, Ilość :3, Łączna cena: 6
+Suma: 6

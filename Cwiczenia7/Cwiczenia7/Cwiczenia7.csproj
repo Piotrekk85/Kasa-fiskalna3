@@ -43,7 +43,7 @@
   <ItemGroup>
     <Compile Include="Aplikacja.cs" />
     <Compile Include="Koszyk.cs" />
-    <Compile Include="Product.cs" />
+    <Compile Include="Produkt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

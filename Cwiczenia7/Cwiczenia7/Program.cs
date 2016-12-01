@@ -15,7 +15,7 @@ namespace Cwiczenia7
             App.WczytajKlawisz();
             App.WykonajDzialanie();
 
-
+            Console.WriteLine("Do widzenia!");
 
             Console.ReadKey();
         }
